@@ -8,8 +8,11 @@
 </head>
 <body>
     <h1>计科4班 徐 文 超</h1>
-    <p>
-    </p>
+<ul>
+    <li>结构</li>
+    <li>表现</li>
+    <li>行为</li>
+</ul>    
 
     <a href="https://www.haomeili.net/YuanZhouLv?Start=1&End=500">整活</a>
 </body>
