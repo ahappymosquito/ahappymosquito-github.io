@@ -27,20 +27,40 @@
                 </li>
                 <del> 比如说我会在接下来的三十天里瘦下来bushi </del>
                 <hr>
-                <li>  the quieter you become , the more you are able to hear</li>
+                <li> "the quieter you become , the more you are able to hear"
+                    <p></p>
+                </li>
             </ol>
         </li>
     </ul>
+    <br>
+<hr>
+这是一条分割线..........
+<hr>
+<br>
+<br>
 
-    <ul>
-        <li>  
-        </li>
-    </ul>
-    奥特曼
-    write the code , change the world
-    <a href="javascript:void(0);" title="加我微信"><img src="https://common.cnblogs.com/images/wechat.png"></a>
+<img src="./force.jpg" hight="700" width="700" alt="少年你渴望力量吗">
+<br>
+<p></p>
+<p>祝愿我们今后都可以<i>write the code , change the world</i></p>
+<br>
+    <p>你可以通过以下方式找到我
+        <br>
+        <a href="https://qm.qq.com/cgi-bin/qm/qr?k=-_9BmDK0AZLgGIQh-_Vc1_Kdo-X3ShwP&noverify=0">
+            <img src="./1.png" hight="30" width="30" alt="QQ">
+        </a>
+        <a href="https://space.bilibili.com/164727081">
+            <img src="./2.png" hight="30" width="30" alt="bilibili">
+        </a>
+        <a href="./nullptr.html">
+            <img src="./3.png" hight="30" width="30" alt="github">
+        </a>
+    </p>
+    最后整个活，没时间就<a href="https://zhidao.baidu.com/question/1386064463008225580.html?qbl=relate_question_1">算了</a>
+<hr>
 
-    <a href="https://zhidao.baidu.com/question/1386064463008225580.html?qbl=relate_question_1">整活</a>
+你看我像不像个<a href="./world.html"> 超 链 接 </a>
 </body>
 
 </html>
